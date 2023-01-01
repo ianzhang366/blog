@@ -1,0 +1,11 @@
+main:
+  - title: "About"
+    url: /about-me
+  - title: "Teaching Philosophy"
+    url: /teaching-philosophy/
+  - title: "Pedagogy"
+    url: /pedagogy/
+  - title: "Leadership and Communities"
+    url: /leadership-and-learning-communities/
+  - title: "Professional Development"
+    url: /professional-development/
