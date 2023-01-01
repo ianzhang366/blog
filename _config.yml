@@ -33,6 +33,21 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+author:
+  name: "Lisha Shi"
+  avatar: "/assets/images/lisha-pic.png"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Aurora, ON, Canada"
+  email: "lisa411854746@gmail.com"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

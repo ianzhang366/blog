@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Teaching Philosophy
+type: docs
 permalink: /teaching-philosophy/
 ---
 
